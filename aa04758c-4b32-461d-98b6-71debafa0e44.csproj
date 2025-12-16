@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{2029606D-5046-4116-A5BF-4CA86EAA1EB2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>aa04758c-4b32-461d-98b6-71debafa0e44</RootNamespace>
+    <AssemblyName>aa04758c-4b32-461d-98b6-71debafa0e44</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <StartupObject>ARRcuyF.vsZnbgEQp</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ARRcuyF\vsZnbgEQp.cs" />
+    <Compile Include="C6Zy\AH9.cs" />
+    <Compile Include="C6Zy\EtbH.cs" />
+    <Compile Include="C6Zy\uyUoQFx.cs" />
+    <Compile Include="C6Zy\WTitxI2m.cs" />
+    <Compile Include="Cc5oGNTD\COF.cs" />
+    <Compile Include="Ch9qVeSrN4\Cc1E7of1Vi.cs" />
+    <Compile Include="Ch9qVeSrN4\JYUEsjqV.cs" />
+    <Compile Include="Ch9qVeSrN4\LOHPeZLPgq.cs" />
+    <Compile Include="Ch9qVeSrN4\WATiq.cs" />
+    <Compile Include="irvZOqKmUZY\JrK9ZW.cs" />
+    <Compile Include="irvZOqKmUZY\XVRNidi9HQ.cs" />
+    <Compile Include="j7xqcJiG4H.cs" />
+    <Compile Include="Je03\2l3Fyo.cs" />
+    <Compile Include="Je03\iAafP.cs" />
+    <Compile Include="Je03\jlA4fWu.cs" />
+    <Compile Include="Je03\Ulguje467X4.cs" />
+    <Compile Include="Je03\uN5.cs" />
+    <Compile Include="Je03\wwVTa1.cs" />
+    <Compile Include="JSW1fecBOy\E3VK3NFAO.cs" />
+    <Compile Include="JSW1fecBOy\g3Vt7T2gk5.cs" />
+    <Compile Include="JSW1fecBOy\Ponsp.cs" />
+    <Compile Include="JSW1fecBOy\rX3O9y1.cs" />
+    <Compile Include="JSW1fecBOy\yg0tYQFwN.cs" />
+    <Compile Include="nb1D668\443AbOc.cs" />
+    <Compile Include="PK42\IEF.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rCOGWW\aiGQ8zQfr.cs" />
+    <Compile Include="rCOGWW\btrVogW.cs" />
+    <Compile Include="rCOGWW\w3uoxlrf.cs" />
+    <Compile Include="rCOGWW\y5l84.cs" />
+    <Compile Include="reJu9lk2r\1ojM8OAmgFO.cs" />
+    <Compile Include="reJu9lk2r\93WgTZS3.cs" />
+    <Compile Include="reJu9lk2r\eha4ad2F.cs" />
+    <Compile Include="reJu9lk2r\GHbU7Rc.cs" />
+    <Compile Include="reJu9lk2r\ouv3Oi.cs" />
+    <Compile Include="reJu9lk2r\q3iR8.cs" />
+    <Compile Include="reJu9lk2r\qS6WnrZN4l.cs" />
+    <Compile Include="reJu9lk2r\rliYkpvg.cs" />
+    <Compile Include="reJu9lk2r\Ro9zpAaKm.cs" />
+    <Compile Include="rk937aHHc\0vPmSDwzd.cs" />
+    <Compile Include="rk937aHHc\0xL.cs" />
+    <Compile Include="rk937aHHc\1s2vmn4.cs" />
+    <Compile Include="rk937aHHc\2cuYOHh.cs" />
+    <Compile Include="rk937aHHc\2cZ074xRxv.cs" />
+    <Compile Include="rk937aHHc\3lKunXj.cs" />
+    <Compile Include="rk937aHHc\6TdfRwGvo.cs" />
+    <Compile Include="rk937aHHc\AaISPSC.cs" />
+    <Compile Include="rk937aHHc\aKOGA5b6zpB.cs" />
+    <Compile Include="rk937aHHc\cafTRo6D1o.cs" />
+    <Compile Include="rk937aHHc\ERkB5TP.cs" />
+    <Compile Include="rk937aHHc\g5og38Hfa4.cs" />
+    <Compile Include="rk937aHHc\GiRZ.cs" />
+    <Compile Include="rk937aHHc\GjDNqYAgu.cs" />
+    <Compile Include="rk937aHHc\GmcIY.cs" />
+    <Compile Include="rk937aHHc\GPSjH.cs" />
+    <Compile Include="rk937aHHc\hhaWJ6C.cs" />
+    <Compile Include="rk937aHHc\HxIsQWYFk1e.cs" />
+    <Compile Include="rk937aHHc\HzVG56dg3.cs" />
+    <Compile Include="rk937aHHc\ILeUQo.cs" />
+    <Compile Include="rk937aHHc\IZXl.cs" />
+    <Compile Include="rk937aHHc\J7MDvBziH.cs" />
+    <Compile Include="rk937aHHc\jN8IyYs1UMT.cs" />
+    <Compile Include="rk937aHHc\jYEFyIgWrCf.cs" />
+    <Compile Include="rk937aHHc\JZe5V2KI3.cs" />
+    <Compile Include="rk937aHHc\kmbY.cs" />
+    <Compile Include="rk937aHHc\ksaJRg.cs" />
+    <Compile Include="rk937aHHc\lA7ei0.cs" />
+    <Compile Include="rk937aHHc\MYIS6sVHsjz.cs" />
+    <Compile Include="rk937aHHc\n2nUr.cs" />
+    <Compile Include="rk937aHHc\o6nQ3B7.cs" />
+    <Compile Include="rk937aHHc\ojK.cs" />
+    <Compile Include="rk937aHHc\OMTC32j.cs" />
+    <Compile Include="rk937aHHc\PbQRzI.cs" />
+    <Compile Include="rk937aHHc\QjPa.cs" />
+    <Compile Include="rk937aHHc\QsVMVT6.cs" />
+    <Compile Include="rk937aHHc\QUrM6.cs" />
+    <Compile Include="rk937aHHc\rKmK4uge.cs" />
+    <Compile Include="rk937aHHc\SgG.cs" />
+    <Compile Include="rk937aHHc\T5IVAUf.cs" />
+    <Compile Include="rk937aHHc\uJg.cs" />
+    <Compile Include="rk937aHHc\uqiESX.cs" />
+    <Compile Include="rk937aHHc\Y7A4ml.cs" />
+    <Compile Include="rk937aHHc\yjcWx.cs" />
+    <Compile Include="S5j\1n6cR.cs" />
+    <Compile Include="S5j\2hQd.cs" />
+    <Compile Include="S5j\37AayiVwbE.cs" />
+    <Compile Include="S5j\DTdytb808Dv.cs" />
+    <Compile Include="S5j\GPq.cs" />
+    <Compile Include="S5j\kfA6ep6v.cs" />
+    <Compile Include="S5j\LaoL2fI5.cs" />
+    <Compile Include="S5j\mPeRk.cs" />
+    <Compile Include="S5j\ON8D3pP.cs" />
+    <Compile Include="S5j\p3H.cs" />
+    <Compile Include="S5j\pgwITr.cs" />
+    <Compile Include="S5j\tdoQ9YzIIP.cs" />
+    <Compile Include="S5j\tDRvYQBcmK.cs" />
+    <Compile Include="S5j\y0EBGg.cs" />
+    <Compile Include="S5j\zz8ZXGH.cs" />
+    <Compile Include="tf1LOc45AC2\rxKCTA4.cs" />
+    <Compile Include="UCgTB4iR\uyUoQFx.cs" />
+    <Compile Include="UHyll\E12deKSaF7.cs" />
+    <Compile Include="UHyll\FNu.cs" />
+    <Compile Include="UHyll\J16ZIJ.cs" />
+    <Compile Include="UHyll\KF4Zzmkr.cs" />
+    <Compile Include="UHyll\lnY86oB.cs" />
+    <Compile Include="UHyll\UwuM0jee6U.cs" />
+    <Compile Include="XYwA8M.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.manifest" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
