@@ -12,6 +12,10 @@ Agent Tesla는 2014년에 처음 등장한 .NET 기반 인포스틸러(Infosteal
 본 프로젝트는 실제 악성 행위를 목적으로 하지 않으며,  
 **악성코드 분석 역량 향상과 보안 연구 목적**으로 수행되었습니다.
 
+---
+
+## Analysis Entry Point
+
 복원된 소스 코드 분석 시  
 **`public static void StartLoop()` 루틴부터 확인하시면 됩니다.**
 
@@ -25,8 +29,6 @@ Agent Tesla는 2014년에 처음 등장한 .NET 기반 인포스틸러(Infosteal
 ---
 
 
-
----
 
 ## Background
 
