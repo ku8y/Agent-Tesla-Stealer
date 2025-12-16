@@ -16,7 +16,7 @@ Agent Tesla는 2014년에 처음 등장한 .NET 기반 인포스틸러(Infosteal
 
 ## Background
 
-Agent Tesla는 다음과 같은 기능을 수행하는 것으로 알려져 있습니다.
+Agent Tesla는 다음과 같은 기능을 수행합니다.
 
 - 웹 브라우저에 저장된 사용자 계정 정보 탈취
 - 이메일 및 FTP 클라이언트 자격 증명 수집
