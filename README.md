@@ -2,7 +2,7 @@
 
 ## Overview
 
-본 저장소는 **:contentReference[oaicite:0]{index=0}** 악성코드를 대상으로 한  
+본 저장소는 **Agent Tesla** 악성코드를 대상으로 한  
 **악성코드 분석 및 난독화 해제(Deobfuscation) 연구 프로젝트**입니다.
 
 Agent Tesla는 2014년에 처음 등장한 .NET 기반 인포스틸러(Infostealer) 악성코드로,  
