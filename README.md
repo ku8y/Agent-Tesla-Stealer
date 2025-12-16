@@ -1,7 +1,7 @@
 # Agent Tesla Deobfuscation & Code Recovery
 ![Agent Tesla Overview](agent-tesla.png)
 
-## Overview
+## 1. Overview
 
 본 저장소는 **Agent Tesla** 악성코드를 대상으로 한  
 **악성코드 분석 및 난독화 해제(Deobfuscation) 연구 프로젝트**입니다.
@@ -14,7 +14,7 @@ Agent Tesla는 2014년에 처음 등장한 .NET 기반 인포스틸러(Infosteal
 
 ---
 
-## Analysis Entry Point
+## 2. Analysis Entry Point
 
 복원된 소스 코드 분석 시  
 **`public static void StartLoop()` 루틴부터 확인하시면 됩니다.**
@@ -30,7 +30,7 @@ Agent Tesla는 2014년에 처음 등장한 .NET 기반 인포스틸러(Infosteal
 
 
 
-## Background
+## 3. Background
 
 Agent Tesla는 다음과 같은 기능을 수행합니다.
 
@@ -45,7 +45,7 @@ Agent Tesla는 다음과 같은 기능을 수행합니다.
 
 ---
 
-## Obfuscation Techniques
+## 4. Obfuscation Techniques
 
 Agent Tesla에는 분석을 방해하기 위한 다양한 난독화 기법이 적용되어 있습니다.
 
@@ -57,7 +57,7 @@ Agent Tesla에는 분석을 방해하기 위한 다양한 난독화 기법이 �
 
 ---
 
-## Project Objective
+## 5. Project Objective
 
 본 프로젝트의 주요 목표는 다음과 같습니다.
 
@@ -71,7 +71,7 @@ Agent Tesla에는 분석을 방해하기 위한 다양한 난독화 기법이 �
 
 ---
 
-## Project Limitations & Scope
+## 6. Project Limitations & Scope
 
 본 프로젝트에서 제공되는 결과물은 Agent Tesla 악성코드의 **전체 기능을 완전하게 복원하거나 복호화한 형태가 아닙니다.**
 
