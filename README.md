@@ -1,5 +1,5 @@
 # Agent Tesla Malware Deobfuscation & Code Recovery
-![Uploading image.png…]()
+![Agent Tesla Overview](images/overview.png)
 
 ## Overview
 
