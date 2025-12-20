@@ -18,7 +18,7 @@ Agent Tesla는 2014년에 처음 등장한 .NET 기반 인포스틸러(Infosteal
 
 복원된 소스 코드 확인 시
 `ARRcuyF/vsZnbgEQp.cs` 파일의  
-**`public static void StartLoop()` 루틴부터 확인하시면 됩니다.**
+**`public static void StartLoop()` 루틴부터 확인하면 됩니다.**
 
 해당 루틴을 기준으로 주요 동작 흐름과 핵심 로직이 단계적으로 호출되는 구조를 파악할 수 있습니다.
 
